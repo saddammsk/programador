@@ -1,0 +1,922 @@
+@media (max-width: 1400px) {
+  .price .price-box ul li a {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .hero-sec .hero-inner h1 {
+    font-size: 55px;
+  }
+
+  .get-touch .touch-text h3 {
+    text-align: center;
+    font-size: 37px;
+  }
+
+  .client .client-box {
+    width: 284px;
+  }
+
+  .client-box-2 {
+    width: 240px !important;
+    height: 220px !important;
+  }
+
+  .swiper-inner-three .mySwiper3 .swip-text {
+    bottom: 30px;
+    left: 10px;
+  }
+
+  .swiper-inner-three .mySwiper3 .swip-text ul li a {
+    padding: 10px 10px;
+    font-size: 12px;
+  }
+
+  .visit iframe {
+    height: 400px;
+  }
+
+  .price .whyUs-text h2 {
+    font-size: 46px;
+  }
+
+  .client .client-box p {
+    font-size: 12px;
+    padding: 15px 0 0 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .logo a {
+    font-size: 24px;
+  }
+
+
+  .benefit-sec .get-btn {
+    width: 292px;
+    font-size: 16px;
+  }
+
+  .benefit-sec .get-btn {
+    width: 292px;
+    font-size: 16px;
+  }
+
+  .btn-default {
+    width: 350px;
+    font-size: 20px;
+  }
+
+  .benefit-box p {
+    font-size: 18px;
+  }
+
+  .benefit-box h4 {
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+
+  .benefit-sec .text-box h2 {
+    margin-bottom: 50px;
+  }
+
+  .nav .nav-list li a {
+    font-size: 18px;
+  }
+
+
+  .box {
+    padding: 38px 22px 32px 22px;
+    height: 100%;
+    display: block;
+  }
+
+  .bot-box .img-hodler img {
+    width: 100%;
+  }
+
+  .bot-media {
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+  }
+
+  .box h4 {
+    font-size: 22px;
+    margin: 18px 0px;
+  }
+
+  .benefit-sec {
+    padding: 0px 0px 120px;
+  }
+
+  .hero-sec .hero-inner h1 {
+    font-size: 56px;
+  }
+
+  .get-touch .touch-text {
+    padding-top: 0 !important;
+    padding-bottom: 50px;
+    max-width: 550px;
+    margin: 0 auto;
+  }
+
+  .get-touch .touch-text h3 {
+    text-align: center;
+    font-size: 45px;
+  }
+
+  .claim .get-btn {
+    width: 280px;
+  }
+
+  .claim .claim-box {
+    gap: 20px;
+  }
+
+  footer .foot-bottom {
+    padding-bottom: 50px;
+  }
+
+  footer {
+    height: 100%;
+  }
+
+  .client .client-text-content {
+    max-width: 650px;
+    padding-top: 0px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .client .client-text-content::after {
+    display: none;
+  }
+
+  .client {
+    padding: 80px 0;
+  }
+
+  .price {
+    padding: 100px 0 0 0;
+  }
+
+  .price .price-box {
+    height: 900px;
+  }
+
+  .claim .claim-box img {
+    max-width: 260px;
+  }
+
+  .seemore-btn {
+    text-align: center;
+    padding-top: 30px;
+  }
+
+  .client .client-text-content p {
+    padding: 10px 0 60px 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .nav .nav-list li:first-child {
+    display: none;
+  }
+
+
+
+  .box {
+    margin: 20px 0px;
+    height: auto;
+  }
+
+  .bot-media {
+    margin: 28px 0px 28px;
+  }
+
+  .box p {
+    max-width: 100%;
+    min-height: auto;
+  }
+
+  .benefit-sec {
+    padding: 0px 0px 60px;
+  }
+
+  .btn-default {
+    margin: 15px auto;
+  }
+
+  .benefit-media ul {
+    display: block;
+  }
+
+  .container {
+    padding: 0px 16px;
+  }
+
+  .nav .nav-list {
+    grid-gap: 14px;
+  }
+
+  .hero-sec .hero-inner h1 {
+    font-size: 36px;
+  }
+
+  .hero-sec .hero-inner p {
+    margin: 34px auto 40px;
+  }
+
+  .team-sec .text-box h6 {
+    font-size: 11px;
+    margin-bottom: 8px;
+  }
+
+  .team-sec .text-box h2 {
+    font-size: 24px;
+  }
+
+  .line {
+    height: 3px;
+    max-width: 210px;
+    margin: 7px auto 36px;
+  }
+
+  .text-box p {
+    font-size: 13px;
+  }
+
+  .btn-video {
+    font-size: 16px;
+  }
+
+  .bottom-header {
+    padding: 14px 0px;
+  }
+
+  .nav .nav-list li a.btn-contact {
+    width: 90px;
+    height: 27px;
+  }
+
+  .logo a {
+    font-size: 16px;
+  }
+
+  .nav .nav-list li a {
+    font-size: 14px;
+  }
+
+  .team-sec .text-box h2 span {
+    font-size: 11px;
+  }
+
+  .claim .claim-box .claim-text h4 {
+    font-size: 24px;
+    padding-bottom: 20px;
+  }
+
+  .claim .claim-box img {
+    max-width: 130px;
+  }
+
+  .claim .claim-box {
+    padding: 20px;
+  }
+
+  .claim .get-btn {
+    width: 250px;
+    height: 55px;
+    font-size: 18px;
+  }
+
+  .get-btn img {
+    width: 25px;
+  }
+
+  .hero-sec .hero-inner h1 {
+    font-size: 36px;
+    max-width: 335px;
+    margin: 0 auto;
+  }
+
+  .hero-sec .hero-inner p {
+    margin: 25px auto 40px;
+    font-size: 18px;
+  }
+
+  .hero-bottom p {
+    font-weight: 200 !important;
+    margin-top: 50px !important;
+    margin-bottom: 0px !important;
+  }
+
+  .get-touch {
+    padding: 70px 0 70px 0;
+  }
+
+  .get-btn {
+    font-size: 18px;
+    padding: 12px 40px;
+  }
+
+  .get-touch .get-touch-btns {
+    gap: 20px;
+    padding-top: 35px;
+  }
+
+  .get-touch .touch-text {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+
+  .secound-touch-text {
+    padding-top: 50px !important;
+  }
+
+  .swiper-inner .swiper-slide img {
+    width: 100% !important;
+    max-height: 100px;
+  }
+
+  .swiper-inner .swiper-slide img .get-touch .touch-text {
+    max-width: 450px;
+    margin: 0 auto;
+  }
+
+  .get-touch .touch-text h3 {
+    font-size: 38px;
+  }
+
+  .get-touch .img-holder .play-btn img {
+    max-width: 80px;
+  }
+
+  .main-boxex {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px 0;
+  }
+
+  .client .client-box {
+    width: 100%;
+    max-width: 95%;
+    margin-left: auto;
+    position: relative;
+  }
+
+  .client .client-box::after {
+    position: absolute;
+    content: "";
+    background: url(../images/client-after-1.svg);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 35px;
+    height: 35px;
+    top: -50px;
+    right: 200px;
+  }
+
+  .client .client-box::before {
+    position: absolute;
+    content: "";
+    background: url(../images/client-after-2.svg);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 35px;
+    height: 35px;
+    bottom: -45px;
+    left: 50px;
+  }
+
+  .client-box-2 {
+    width: 100% !important;
+    max-width: 95% !important;
+    margin: 50px 0;
+    position: relative;
+  }
+
+  .client-box-2::after {
+    display: none;
+  }
+
+  .client-box-2::before {
+    display: none;
+  }
+
+  .client-box-3::after {
+    background: url(../images/client-after-3.svg) !important;
+    right: 50px !important;
+  }
+
+  .client .client-box-2 .cirlce-img {
+    text-align: center !important;
+  }
+
+  .client .client-box-3 .cirlce-img {
+    text-align: center !important;
+  }
+
+  .client-box-3::before {
+    display: none;
+  }
+
+  .client-box.client-box-3 {
+    margin-top: 0px;
+  }
+
+  .client .client-text-content h4 {
+    font-size: 40px;
+  }
+
+  .swiper-inner-three .mySwiper3 .swip-text ul {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .swiper-inner-three .mySwiper3 .swip-text ul li a {
+    padding: 10px 30px;
+    font-size: 12px;
+  }
+
+  .client {
+    padding: 80px 0 50px 0;
+  }
+
+  .visit h2 {
+    font-size: 26px;
+  }
+
+  .claim {
+    margin-top: 50px;
+  }
+
+  footer .foot-top-text h2 {
+    font-size: 30px;
+  }
+
+  .price .price-box {
+    height: 900px;
+    max-width: 100% !important;
+  }
+
+  .swiper-inner {
+    position: relative;
+  }
+
+  .swiper-btns {
+    position: absolute;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 50px;
+    bottom: -65px;
+    right: 0;
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .swiper-btns .swip-buttons {
+    height: 50px;
+    min-width: 140px;
+    position: relative;
+  }
+
+  .swiper-btns .swiper-button-prev {
+    background: url(../images/prev-slider.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50px;
+    height: 50px;
+  }
+
+  .swiper-btns .swiper-button-next {
+    background: url(../images/next-slider.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50px;
+    height: 50px;
+  }
+
+  .swiper-button-prev:after,
+  .swiper-button-next:after {
+    content: "";
+  }
+
+  .price .information {
+    display: none;
+  }
+
+  .price-wrapper .claim {
+    margin: 100px 0 50px 0 !important;
+  }
+
+  .price .whyUs-text h2 {
+    font-size: 35px;
+  }
+
+  .price .whyUs-text p {
+    font-size: 16px;
+  }
+
+  .btn-close {
+    top: -60px;
+    right: 0px;
+    width: 35px;
+    height: 35px;
+  }
+
+  .price {
+    padding: 70px 0 0 0;
+  }
+
+
+}
+
+@media (max-width: 575px) {
+  .swiper-inner {
+    max-width: 100%;
+    padding: 0px;
+  }
+
+  .claim .claim-box {
+    padding: 10px;
+  }
+
+  .popover-box h6 {
+    font-size: 14px;
+  }
+
+  .popover-box a {
+    font-size: 10px;
+    width: 56px;
+  }
+
+  .benefit-sec .text-box h2 {
+    font-size: 24px;
+  }
+
+  .btn-default svg {
+    width: 20px;
+  }
+
+  .benefit-sec .text-box h2 {
+    margin-bottom: 30px;
+  }
+
+  .benefit-box p {
+    font-size: 16px;
+  }
+
+  .icon-circle {
+    width: 64px;
+    height: 64px;
+    padding: 18px;
+  }
+
+  .benefit-box h4 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+
+  .benefit-box {
+    margin-bottom: 24px;
+  }
+
+  .box p {
+    font-size: 16px;
+  }
+
+  .box h4 {
+    font-size: 20px;
+    margin: 14px 0px;
+  }
+
+  .btn-popover {
+    width: 100%;
+  }
+
+  .calendar-sec {
+    padding: 30px 0px 60px;
+  }
+
+  .btn-default {
+    width: 292px;
+    font-size: 16px;
+    height: 54px;
+  }
+
+  .bot-box {
+    margin-bottom: 20px;
+  }
+
+  .bot-media {
+    display: block;
+  }
+
+  .price {
+    padding: 50px 0 0 0;
+  }
+
+  .mobile-img {
+    display: block;
+  }
+
+  .desktop-img {
+    display: none;
+  }
+
+  .hero-sec {
+    padding: 72px 0px 30px;
+  }
+
+  .swiper-inner .swiper-slide img {
+    width: 80%;
+  }
+
+  .team-sec {
+    padding: 32px 0px 48px;
+  }
+
+  .claim .get-btn {
+    width: 170px;
+    height: 40px;
+    font-size: 14px;
+    padding: 0;
+  }
+
+
+  .get-btn img {
+    width: 15px;
+  }
+
+
+
+  .claim .claim-box .claim-text h4 {
+    font-size: 14px;
+    padding-bottom: 10px;
+  }
+
+  .hero-sec .hero-inner p {
+    font-size: 13px;
+  }
+
+  .get-touch .touch-text {
+    max-width: 245px;
+    margin: 0 auto;
+    padding-bottom: 30px;
+  }
+
+  .get-touch .touch-text h3 {
+    font-size: 24px;
+  }
+
+  .get-touch {
+    padding: 50px 0 50px 0;
+  }
+
+  .get-touch .get-video-text h4 {
+    font-size: 20px;
+  }
+
+  .get-touch .get-video-text p {
+    font-size: 14px;
+  }
+
+  .btn-video {
+    font-size: 16px;
+    width: 100%;
+    height: 71px;
+  }
+
+  .get-btn {
+    width: 100%;
+    margin: 0 auto;
+    height: 54px;
+    font-size: 18px;
+  }
+
+  .swiper-inner .swiper-slide img {
+    width: 100% !important;
+    max-height: 60px;
+  }
+
+  .get-btn img {
+    width: 20px;
+  }
+
+  .get-touch {
+    padding: 30px 0 30px 0;
+  }
+
+  .get-touch .third-touch-text {
+    max-width: 100%;
+    margin: 0 auto;
+    padding-bottom: 30px;
+  }
+
+  .unlock-btn {
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    height: 54px;
+  }
+
+  .seemore-btn {
+    text-align: center;
+    padding-top: 10px;
+  }
+
+  .visit iframe {
+    height: 250px;
+  }
+
+  .visit {
+    padding: 50px 0 0 0;
+  }
+
+  .accordion-item .accordion-button {
+    color: #e5a507;
+    padding: 0;
+    font-size: 23.174px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    width: 100%;
+    text-align: left;
+  }
+
+  .accordion-button:not(.collapsed) {
+    color: #e5a507;
+    background-color: transparent;
+    box-shadow: none;
+  }
+
+  .accordion-button:focus {
+    border: 0;
+    box-shadow: none;
+  }
+
+  .accordion-item {
+    background-color: transparent;
+    border: 0;
+    box-shadow: none;
+    padding-top: 30px;
+  }
+
+  .accordion-button {
+    background-color: transparent;
+    box-shadow: none;
+    padding: 0;
+  }
+
+  .accordion-button::after {
+    flex-shrink: 0;
+    width: 29px;
+    height: 29px;
+    margin-left: auto;
+    content: "";
+    background-image: url(../images/dropdown-foot.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    transition: transform 0.2s ease-in-out;
+  }
+
+  .accordion-button:not(.collapsed)::after {
+    background-image: url(../images/dropdown-foot.svg);
+  }
+
+  .accordion .accordion-body {
+    padding: 10px 0 0 0;
+  }
+
+  .accordion .accordion-body ul {
+    padding-top: 10px;
+  }
+
+  .accordion .accordion-body ul li {
+    margin-bottom: 10px;
+  }
+
+  .accordion .accordion-body ul li a {
+    font-style: normal;
+  }
+
+  .accordion .accordion-body .dropdown-toggle::after {
+    display: none;
+  }
+
+  .dropdown-toggle::before {
+    position: absolute;
+    content: "";
+    background: url(../images/dropdown-foot.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 28px;
+    height: 28px;
+    right: 0;
+    top: 50%;
+    transform: translate(0, -50%);
+  }
+
+  .dropdown-menu {
+    background-color: transparent;
+  }
+
+  .dropdown-menu .dropdown-item {
+    color: #fff;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 300;
+    line-height: normal;
+  }
+
+  footer .foot-bottom p,
+  a {
+    font-size: 15px;
+    text-transform: capitalize;
+  }
+
+  footer .foot-bottom {
+    padding-bottom: 20px;
+  }
+
+  footer .foot-top-text {
+    text-align: center;
+    padding-bottom: 0;
+  }
+
+  footer {
+    padding-top: 70px;
+  }
+
+  .modal.show .modal-dialog {
+    max-width: 320px;
+    margin: 0 auto;
+  }
+
+  .client .client-text-content h4 {
+    font-size: 30px;
+  }
+
+  .client {
+    padding: 50px 0 30px 0;
+  }
+
+  .client .client-box::after {
+    right: 80px;
+  }
+
+  .price .price-box {
+    max-width: 330px;
+    height: 820px;
+    margin: 0 auto;
+  }
+
+  .price-box.price-box-2 {
+    height: 750px !important;
+  }
+
+  .price-box.price-box-3 {
+    height: 700px !important;
+  }
+
+  .price .price-box .price-text h4 {
+    padding: 0 0;
+  }
+
+  .price .price-box ul {
+    padding-top: 20px;
+  }
+
+  .price .whyUs-text h2 {
+    font-size: 32px;
+  }
+
+  .price .whyUs-text p {
+    font-size: 14px;
+  }
+
+  .btn-video::after {
+    height: 68px;
+  }
+
+  .get-touch::after {
+    display: none;
+  }
+
+  .get-touch::before {
+    display: none;
+  }
+}
